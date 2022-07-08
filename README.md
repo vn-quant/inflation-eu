@@ -1,5 +1,5 @@
 # Inflation rate-eu
-I use data from to trading economics to visualize the inflation rate in some EU countries 
+I use data from trading economics to visualize the inflation rate in some EU countries 
 
 ![inflation rate reduce](https://user-images.githubusercontent.com/83815398/177717678-ecc99560-0765-443b-90e5-107a8a18deb2.jpg)
 
